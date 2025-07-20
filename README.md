@@ -17,9 +17,7 @@ In this repository, the session library has integrated with VAT UI template
 7. In the database folder, find the lastest version of the SQL file (they are database backup SQL script), run it in your phpMyAdmin
 8. Done! Now you should be able to login the from the test view o test the library
 
-# Live demo
-<b>Link:</b><br>
-https://www.davidprojects.store/<br>
+
 
 <b>Test account 1.</b><br>
 email: superadmin@gmail.com<br>
@@ -43,8 +41,4 @@ volunteer at TAFE<br>
 <b>Roles have permissions list:</b><br>
 https://docs.google.com/spreadsheets/d/1Z1wTObF6rV0csSUQd1WoYry_BZR_gpP3jEw_MNtbpYg/edit?usp=sharing
 
-<b>PhpMyadmin Link:</b>
-<br>https://www.davidprojects.store/phpmyadmin/
-=======
-# portfolio
->>>>>>> d6d6255ba5c638a7fca8fc2039262b6b2c2bbd0c
+
